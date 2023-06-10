@@ -8,7 +8,7 @@ int main() {
 	int n;
 
 	//Задача 1
-	/*std::cout << "Задача1.\n Изначальный массив.\n";
+	std::cout << "Задача1.\n Изначальный массив.\n";
 	const int size1 = 10;
 	int arr1[size1];
 	srand(time(NULL));
@@ -27,7 +27,7 @@ int main() {
 	std::cout << "Итоговый массив:\n";
 	for (int i = 0; i < size1; i++)
 		std::cout << arr1[i] << ' ';
-	std::cout<<"\n\n";*/
+	std::cout<<"\n\n";
 
 	//Задача 2.Температура в январе
 	std::cout << "Задача 2. \nТемпература за каждый день января -> \n";
